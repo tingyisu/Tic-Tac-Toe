@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Play tic tac toe against my AI on an n by n sized board! 
+A text based game of tic tac toe on an n by n sized board. 
